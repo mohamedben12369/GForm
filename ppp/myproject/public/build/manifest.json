@@ -1,0 +1,43 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-DQ1Y7E5K.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/dashboard.css": {
+    "file": "assets/dashboard-D-oFDOgX.css",
+    "src": "resources/css/dashboard.css",
+    "isEntry": true
+  },
+  "resources/css/login.css": {
+    "file": "assets/login-ZLmd55hS.css",
+    "src": "resources/css/login.css",
+    "isEntry": true
+  },
+  "resources/css/register.css": {
+    "file": "assets/register-CeFOZU8O.css",
+    "src": "resources/css/register.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-lFu-adV9.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-Dua2pFkn.css"
+    ]
+  },
+  "resources/js/dashboard.js": {
+    "file": "assets/dashboard-l0sNRNKZ.js",
+    "name": "dashboard",
+    "src": "resources/js/dashboard.js",
+    "isEntry": true
+  },
+  "resources/js/register.js": {
+    "file": "assets/register-l0sNRNKZ.js",
+    "name": "register",
+    "src": "resources/js/register.js",
+    "isEntry": true
+  }
+}
